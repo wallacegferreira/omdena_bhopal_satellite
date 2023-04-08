@@ -10,6 +10,7 @@ This is collaborative and open sourece project
 
 
 
-![alt text](/workspaces/omdena_bhopal_satellite/images/StreamlitApp.png "Optional title")
+Link to the Web App:  https://vaasu2002-omdena-bhopal-water-quality-dashboard-main-pzjmtf.streamlit.app/
 
-![alt text](/workspaces/omdena_bhopal_satellite/images/StreamlitApp.png?raw=true)
+![Streamlit App](./images/StreamlitApp.png)
+
