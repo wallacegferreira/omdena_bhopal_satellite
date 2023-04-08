@@ -20,6 +20,9 @@ Link to sample code in Colab: https://colab.research.google.com/drive/1WhR9HkJaw
 
 ![EDA Sweetviz](./images/sweetviz.jpg)
 
+![EDA Pandas Profiling](./images/pandas_profiling.png)
+
+![EDA Corr Matrix](./images/corr_matrix.png)
 
 ## Streamlit Web App Deployed
 
